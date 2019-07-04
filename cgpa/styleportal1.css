@@ -1,0 +1,133 @@
+#header .navbar {
+	min-height: 80px;
+	margin-bottom: 0;
+	border-radius: 0;
+	border-color: #6d7fcc;
+}
+
+.st-navbar {
+	background-color: #fff;
+	border-bottom: 1px solid #f0f0f0;
+}
+
+#ed1 a{
+	text-decoration:none;
+}
+
+header .st-navbar ul li a {
+	text-transform: uppercase;
+	font-weight: 600;
+	padding: 0 !important;
+	margin: 14px;
+	text-decoration: none;
+}
+
+
+.st-navbar ul li a:hover,
+.st-navbar ul li a:focus {
+	background-color: transparent;
+	color: #000;
+	text-decoration: none;
+}
+
+.st-navbar .navbar-header {
+	margin-top: 25px;
+}
+
+.st-navbar .navbar-toggle .icon-bar {
+	background-color: #000;
+}
+
+.st-navbar .navbar-toggle {
+	margin-top: 7px;
+	margin-right: 25px;
+	padding: 0;
+	border-radius: 0;
+}
+.card { background-color: transparent;
+}
+
+
+
+.cardesign p{
+	color: #6d7fcc;
+
+}
+.cardesign p:hover{
+	color: #6d7fcc;
+	text-decoration: underline;
+}
+
+#mytable tbody td {
+	color: #ffff;
+}
+#mytable2 tbody td {
+	color: #ffff;
+}
+
+#footer {
+	width: 100%;
+	background-color: #a4a5a7;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	color: rgba(255, 255, 255, 0.4);
+}
+
+#footer a {
+	color: rgba(255, 255, 255, 0.4);
+}
+
+#footer a:hover {
+	color: #fff;
+}
+
+.footer-social-icons {
+	text-align: right;
+}
+
+.footer-social-icons a {
+	margin: 0 5px;
+	font-size: 16px;
+}
+
+.footer-social-icons span {
+	margin-right: 10px;
+}
+
+
+.scroll-up {
+	position: fixed;
+	display: none;
+	z-index: 999;
+	bottom: 1.8em;
+	right: 1.8em;
+}
+
+.scroll-up ul {
+	margin: 0;
+	padding: 0;
+}
+
+.scroll-up li {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.scroll-up a {
+	background-color: #fff;
+	display: block;
+	width: 40px;
+	height: 40px;
+	text-align: center;
+	color: #000;
+	font-size: 20px;
+	line-height: 38px;
+	box-shadow: 0 0 6px #ccc;
+}
+
+.scroll-up a:hover,
+.scroll-up a:active {
+	background-color: #f5f5f5;
+	color: #000;
+}
